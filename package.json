@@ -1,0 +1,18 @@
+{
+  "name": "ubercheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "html": "^1.0.0",
+    "mu2": "^0.5.21",
+    "path": "^0.12.7"
+  }
+}
